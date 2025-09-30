@@ -1,1 +1,8 @@
+Network path of Development Environment:
+
 \\Vinaytech\10 am aug 25\VINAYTECH_BUSINESS_PAYMENT_DETAILS_DATAMODEL_DATASET.xlsx
+
+Network path of Test Environment:
+
+
+Network path of Prod Environment:
